@@ -1,9 +1,9 @@
 module.exports = {
-  title: `zoomkoding.com`,
-  description: `줌코딩의 개발일기`,
+  title: `sh2orc`,
+  description: `sh2orc`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
-  siteUrl: `https://www.zoomkoding.com`,
-  ogImage: `/og-image.png`, // Path to your in the 'static' folder
+  siteUrl: `https://sh2orc.github.io`,
+  ogImage: `/2025p.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
       repo: ``, // `zoomkoding/zoomkoding-gatsby-blog`,
@@ -11,10 +11,10 @@ module.exports = {
   },
   ga: '0', // Google Analytics Tracking ID
   author: {
-    name: `정진혁`,
+    name: `Lee Taeyoung`,
     bio: {
-      role: `개발자`,
-      description: ['사람에 가치를 두는', '능동적으로 일하는', '이로운 것을 만드는'],
+      role: `Fullstack`,
+      description: ['Front', 'Back', 'DevOps', 'Machine Learning'],
       thumbnail: 'sample.png', // Path to the image in the 'asset' folder
     },
     social: {
