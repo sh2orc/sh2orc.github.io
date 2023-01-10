@@ -1,3 +1,3 @@
 User-agent: *
-Sitemap: https://www.zoomkoding.com/sitemap/sitemap-index.xml
-Host: https://www.zoomkoding.com
+Sitemap: https://sh2orc.github.io/sitemap/sitemap-index.xml
+Host: https://sh2orc.github.io
