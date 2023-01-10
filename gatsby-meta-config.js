@@ -13,8 +13,8 @@ module.exports = {
   author: {
     name: `Lee Taeyoung`,
     bio: {
-      role: `Fullstack`,
-      description: ['Front', 'Back', 'DevOps', 'Machine Learning'],
+      role: `Fullstack - `,
+      description: ['Front End', 'Back End', 'DevOps', 'Evangelist', 'Machine Learning', 'AI'],
       thumbnail: 'bear_me.png',   // in assets
     },
     social: {
