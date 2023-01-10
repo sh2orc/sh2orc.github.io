@@ -3,7 +3,7 @@ module.exports = {
   description: `sh2orc`,
   language: `en`,
   siteUrl: `https://sh2orc.github.io`,
-  ogImage: `/2025p.png`, // Path to your in the 'static' folder
+  ogImage: `/leaf.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
       repo: ``, // `zoomkoding/zoomkoding-gatsby-blog`,
