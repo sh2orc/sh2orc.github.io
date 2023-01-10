@@ -15,7 +15,7 @@ module.exports = {
     bio: {
       role: `Fullstack`,
       description: ['Front', 'Back', 'DevOps', 'Machine Learning'],
-      thumbnail: '2025p.png',
+      thumbnail: 'bear_me.png',   // in assets
     },
     social: {
       github: `https://github.com/sh2orc`,
